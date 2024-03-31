@@ -46,6 +46,16 @@
      - International students often need to send or receive packages from their home countries, which can be expensive and time-consuming through traditional shipping methods.
      - Wheel N’ Deal provides a cost-effective and convenient solution for students to send and receive items like care packages, textbooks, or personal belongings.
      - Students can also sign up as commuters and earn extra income by delivering packages to others in their university or local community.
+     - **Example**:
+       - Ahmed is an international student studying at Tanta University in Egypt. He frequently travels to Alexandria University for academic conferences and research collaborations.
+       - Previously, Ahmed struggled with the high costs and delays associated with sending research materials and personal belongings between the two universities.
+       - Now, with Wheel N’ Deal, Ahmed has a convenient and affordable solution:
+         - **Sending Packages:** When Ahmed needs to send research papers or personal items to Alexandria, he simply posts a delivery request on the Wheel N’ Deal platform. He specifies the package details, pick-up and drop-off locations, and his desired timeframe.
+         - **Becoming a Commuter:** Ahmed also registered as a commuter on the platform, indicating his regular travel route between Tanta and Alexandria. Now, when other users need packages delivered along this route, Ahmed can choose to accept the delivery requests.
+       - This is a win-win for Ahmed:
+         - He saves money on shipping costs by utilizing his own travel routine to deliver packages.
+         - He earns extra income by completing deliveries for other users.
+         - He makes his journeys more meaningful by helping others and contributing to the community.
 
    - **Employers Traveling for Work**:
 
