@@ -41,10 +41,6 @@
 
 4. **Target Audience:**
 
-   - **Individuals:** Anyone who needs to send or receive packages conveniently and affordably.
-   - **Businesses:** Small businesses and online retailers who require cost-effective and efficient delivery solutions.
-   - **Commuters:** Individuals who travel regularly and want to earn extra income while helping their community.
-
    - **Students Studying Abroad**:
 
      - International students often need to send or receive packages from their home countries, which can be expensive and time-consuming through traditional shipping methods.
