@@ -45,6 +45,23 @@
    - **Businesses:** Small businesses and online retailers who require cost-effective and efficient delivery solutions.
    - **Commuters:** Individuals who travel regularly and want to earn extra income while helping their community.
 
+   - **Students Studying Abroad**:
+
+     - International students often need to send or receive packages from their home countries, which can be expensive and time-consuming through traditional shipping methods.
+     - Wheel N’ Deal provides a cost-effective and convenient solution for students to send and receive items like care packages, textbooks, or personal belongings.
+     - Students can also sign up as commuters and earn extra income by delivering packages to others in their university or local community.
+
+   - **Employers Traveling for Work**:
+
+     - Business travelers often need to transport documents, equipment, or other work-related items between different locations.
+     - Wheel N’ Deal offers a secure and efficient way for employers to send and receive these items, potentially saving on shipping costs and time delays.
+     - Traveling employees can also act as commuters on the platform, delivering packages along their travel routes and generating additional income.
+
+   **By focusing on these two target audiences, Wheel N’ Deal can cater to specific needs and provide valuable solutions**:
+
+   - **Students**: Affordable and convenient way to stay connected with family and friends back home.
+   - **Employers**: Cost-effective and efficient way to manage business logistics while traveling.
+
 5. **Benefits:**
 
    - **Senders:**
